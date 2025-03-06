@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-78b1fa6dfe93071e485e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hdjkshdjsad",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hdjkshdjsad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hdjkshdjsad-Release-1945127612867e845d5e.json",
+					"name" : "hdjkshdjsad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hdjkshdjsad_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hdjkshdjsad_autogen-Release-495e04af6ffadbd368ab.json",
+					"name" : "hdjkshdjsad_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hdjkshdjsad_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hdjkshdjsad_autogen_timestamp_deps-Release-75c5bbed2de65c7942f7.json",
+					"name" : "hdjkshdjsad_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QTdocuments/hdjkshdjsad/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release",
+		"source" : "D:/QTdocuments/hdjkshdjsad"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

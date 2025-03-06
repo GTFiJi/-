@@ -1,0 +1,9 @@
+D:/QTdocuments/hdjkshdjsad/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/hdjkshdjsad.dir
+D:/QTdocuments/hdjkshdjsad/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+D:/QTdocuments/hdjkshdjsad/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+D:/QTdocuments/hdjkshdjsad/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+D:/QTdocuments/hdjkshdjsad/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/install.dir
+D:/QTdocuments/hdjkshdjsad/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+D:/QTdocuments/hdjkshdjsad/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+D:/QTdocuments/hdjkshdjsad/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/hdjkshdjsad_autogen_timestamp_deps.dir
+D:/QTdocuments/hdjkshdjsad/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/CMakeFiles/hdjkshdjsad_autogen.dir
